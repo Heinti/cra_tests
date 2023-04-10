@@ -1,0 +1,1 @@
+export const selectFilterStatus = state => state.filterStatus.status
